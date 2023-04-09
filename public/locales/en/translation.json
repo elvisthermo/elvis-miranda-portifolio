@@ -1,0 +1,64 @@
+{
+  "name": "Your name",
+  "title": "Full Stack Developer",
+  "presentation": "  I 'm Elvis Thermo",
+  "description": "I am a full stack developer with experience in web and mobile projects.",
+  "about": "About me",
+  "experiences": "Experiences ",
+  "knowledge": "Knowledge ",
+  "contactme": "Contact me",
+  "hw": "HELLO WORD",
+  "myDescription": "I work in the area of software development with experience in developing web and desktop applications, intelligent solutions using programming and design patterns. Passionate about technology in constant development of my skills and professional growth.",
+  "contact": {
+    "email": "youremail@example.com",
+    "phone": "+55 (99) 99999-9999",
+    "website": "www.yourwebsite.com",
+    "linkedin": "linkedin.com/in/yourprofile"
+  },
+  "skills": [
+    {
+      "name": "Languages",
+      "items": ["JavaScript", "Python", "Java"]
+    },
+    {
+      "name": "Technologies",
+      "items": ["React", "Node.js", "MongoDB"]
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Capgemini",
+      "subtitle": "Digital Solutions Consultant IV",
+      "date": "March 2023 - Present",
+      "description": "Development of banking applications, Angular Front-end, reactJS, and Java Back-end, involving microservices, REST Node APIs. Java, Javascript - Understanding the company's needs and challenges, evaluating their current processes and identifying areas that can be improved. - Identifying technological solutions that meet the company's needs and assisting in choosing the most appropriate solution.",
+      "date": "November 2021 - March 2023"
+    },
+    {
+      "title": "Capgemini",
+      "subtitle": "Digital Solutions Consultant III",
+      "date": "November 2021 - March 2023",
+      "description": "Development of banking applications, Angular Front-end, reactJS, and Java Back-end, involving microservices, REST Node APIs. Java, Javascript - Understanding the company's needs and challenges, evaluating their current processes and identifying areas that can be improved. - Identifying technological solutions that meet the company's needs and assisting in choosing the most appropriate solution."
+    },
+    {
+      "title": "TOTVS",
+      "subtitle": "Systems Analyst I",
+      "date": "October 2020 - November 2021",
+      "description": "Development of financial applications with microservices, REST APIs in Java Spring boot, front-end with Javascript Angular, maintenance of legacy systems with Java 7 and AngularJs."
+    },
+    {
+      "title": "LABVIS, UFPA",
+      "subtitle": "Scholarship holder",
+      "date": "August 2017 - January 2021",
+      "description": "The Research Lines of the group are Information Visualization, Virtual and Augmented Reality, Human-Computer Interaction, Machine Learning, Image Processing, Computer Vision, Voice Synthesis and Recognition, and Assistive Technologies. link: http://labvis.ufpa.br/"
+    }
+  ],
+  "labels": {
+    "text": { "teste": {}, "teste": {}, "teste": {} }
+  },
+  "button": {
+    "text": { "teste": {}, "teste": {}, "teste": {} }
+  },
+  "footerText": "©2023 by Elvis Thermo.",
+  "footerDescription": "All rights reserved.",
+  "skillsAlt": "Icon of"
+}

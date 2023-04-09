@@ -1,0 +1,67 @@
+{
+  "name": "Elvis Miranda",
+  "title": "Desenvolvedor Fullstack",
+  "presentation": "Eu sou Elvis Thermo",
+  "description": "Sou um desenvolvedor full stack com experiência em projetos web e mobile.",
+  "about":"Sobre mim",
+  "experiences":"Experiência",
+  "knowledge":"Conhecimentos ",
+  "contactme":"Fale Comigo",
+  "hw":"Olá Mundo",
+  "myDescription":"Trabalho na área de desenvolvimento de software com experiência em desenvolver aplicações web e desktop, soluções inteligentes usando programão e padrões de projetos. Apaixonado por tecnologia em constante desenvolvimento de minhas habilidades e crescimento profissional.",
+  "contact": {
+    "email": "elvis.thermo@gmail.com",
+    "phone": "+55 (91) 998212-6057",
+    "website": "www.yourwebsite.com",
+    "linkedin": "linkedin.com/in/elvisthermo"
+  },
+  "skills": [
+    {
+      "name": "Languages",
+      "items": ["JavaScript", "Java","Go","C#","Python"]
+    },
+    {
+      "name": "Technologies",
+      "items": ["Angular","React", "Node.js", "MongoDB"]
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Capgemini",
+      "subtitle": "Consultor Soluções Digitais IV",
+      "date": "Março de 2023 - Até o Momento",
+      "description":
+      "Desenvolvimento de aplicações bancárias, Front-end Angular, reactJS, e Back-end Java, envolvendo micro serviços, apis REST Node. Java, Javascript - Entender as necessidades e desafios enfrentados pela empresa, avaliar seus processos atuais e identificar áreas que possam ser melhoradas. - Identificar soluções tecnológicas que atendam às necessidades da empresa e auxiliar na escolha da solução mais adequada",      "date": "Novembro de 2021 - Março de 2023"
+    },
+    {
+      "title": "Capgemini",
+      "subtitle": "Consultor Soluções Digitais III",
+      "date": "Novembro de 2021 - Março de 2023",
+      "description":
+        "Desenvolvimento de aplicações bancárias, Front-end Angular, reactJS, e Back-end Java, envolvendo micro serviços, apis REST Node. Java, Javascript - Entender as necessidades e desafios enfrentados pela empresa, avaliar seus processos atuais e identificar áreas que possam ser melhoradas. - Identificar soluções tecnológicas que atendam às necessidades da empresa e auxiliar na escolha da solução mais adequada"
+    },
+    {
+      "title": "TOTVS",
+      "subtitle": "Analista de sistemas I",
+      "date": "Outubro de 2020 - Novembro de 2021",
+      "description":
+        "Desenvolvimento de aplicações financeiras com micro serviços, apis REST em Java Spring boot, front-end com Javascript Angular manutenção a sistemas legados com Java 7 e AngularJs."
+    },
+    {
+      "title": "LABVIS, UFPA",
+      "subtitle": "Bolsista",
+      "date": "Agosto de 2017 - Janeiro de 2021",
+      "description":
+        "As Linhas de Pesquisa do grupo são Visualização da Informação, Realidade Virtual e Aumentada, Interação Humano-Computador, Aprendizado de Máquina, Processamento de Imagens, Visão Computacional, Síntese e Reconhecimento de Voz e Tecnologias Assistivas. link: http://labvis.ufpa.br/"
+    }
+  ],
+  "labels":{
+    "text":{"teste":{},"teste":{},"teste":{}}
+  },
+  "button":{
+    "text":{"teste":{},"teste":{},"teste":{}}
+  },
+  "footerText":"©2023 por Elvis Thermo.",
+  "footerDescription": "Todos os direitos reservados..",
+  "skillsAlt":"Ícone do"
+}
