@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-page-custom-font */
 /* eslint-disable @next/next/no-sync-scripts */
+import Head from "next/head";
 import React from "react";
 import { useTranslation } from "react-i18next";
 
@@ -7,7 +8,7 @@ const Header: React.FC = () => {
   const { t } = useTranslation();
 
   return (
-    <head>
+    <Head>
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" />
 
@@ -45,10 +46,9 @@ const Header: React.FC = () => {
         type="image/x-icon"
       />
       <script src="https://unpkg.com/scrollreveal"></script>
-      <script type="module" src="./assets/js/main.js" defer></script>
 
       <title>Elvis / Portifólio</title>
-    </head>
+    </Head>
   );
 };
 

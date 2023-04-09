@@ -1,6 +1,5 @@
 import React from "react";
 
-import { FooterContainer } from "./styles";
 import { useTranslation } from "react-i18next";
 import SocialLinks from "../SocialLinks";
 

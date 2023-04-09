@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import styled from "styled-components";
 interface Job {
   title: string;
   subtitle: string;
@@ -8,7 +7,7 @@ interface Job {
 
 }
 
-export function Experience() {
+const Experience =()=> {
   const { t } = useTranslation();
 
   const jobs = t("jobs", { returnObjects: true }) as Job[];
@@ -27,3 +26,5 @@ export function Experience() {
     </div>
   );
 }
+
+export default Experience;

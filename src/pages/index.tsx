@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import GlobalStyles from "../styles/global";
 import Skills from "./components/Skills";
 import "animate.css";
-import { Experience } from "./components/Experience";
+import Experience from "./components/Experience";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import SocialLinks from "./components/SocialLinks";

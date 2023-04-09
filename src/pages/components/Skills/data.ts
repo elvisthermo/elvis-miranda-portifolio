@@ -1,4 +1,5 @@
-export const cards = [
+export default {
+  cards : [
     {
       title: "HTML5",
       url: "/assets/images/html.png",
@@ -79,4 +80,6 @@ export const cards = [
       title: "Kubernets",
       url: "/assets/images/kubernets.png",
     },
-  ];
+  ]
+}
+

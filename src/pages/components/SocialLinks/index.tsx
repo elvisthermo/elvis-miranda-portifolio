@@ -1,7 +1,4 @@
 import React from "react";
-import styled from "styled-components";
-import { FaCode, FaDesktop, FaMobile } from "react-icons/fa";
-import Image from "next/image";
 import { useTranslation } from "react-i18next";
 
 const SocialLinks = () => {
