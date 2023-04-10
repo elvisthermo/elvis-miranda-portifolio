@@ -1,3 +1,37 @@
+# Elvis Miranda - Portfólio
+
+[![Badge da linguagem utilizada](https://img.shields.io/badge/Linguagem-HTML/CSS/Typescrip-blueviolet)](https://developer.mozilla.org/pt-BR/docs/Web)
+[![Badge da biblioteca utilizada](https://img.shields.io/badge/Biblioteca-React-blue)](https://reactjs.org/)
+[![Badge do framework utilizado](https://img.shields.io/badge/Framework-Next.js-black)](https://expressjs.com/)
+
+Este é o repositório do portfólio do desenvolvedor Elvis Miranda, que inclui projetos, habilidades e experiências profissionais utilizando next.js.
+
+## Sobre mim
+
+Sou desenvolvedor de software com mais de 5 anos de experiência em desenvolvimento web. Atualmente, trabalho como desenvolvedor full-stack na empresa XYZ, onde sou responsável por projetar e desenvolver aplicações web complexas.
+
+## Habilidades
+
+- HTML/CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- SQL
+- Git
+
+## Experiência profissional
+
+- **Desenvolvedor full-stack na empresa XYZ:** Trabalho como desenvolvedor full-stack na empresa XYZ desde 2018. Nesse papel, sou responsável por projetar e desenvolver aplicações web complexas usando tecnologias como React, Node.js e SQL.
+- **Desenvolvedor front-end na empresa ABC:** Trabalhei como desenvolvedor front-end na empresa ABC de 2016 a 2018. Nesse papel, fui responsável por projetar e desenvolver interfaces de usuário usando HTML, CSS e JavaScript.
+
+## Contato
+
+- Email: elvisthermo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/elvisthermo/
+- Twitter: https://twitter.com/elvisthermo
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -31,8 +65,3 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
